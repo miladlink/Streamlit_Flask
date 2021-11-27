@@ -15,7 +15,7 @@
 **clone the repository to local**
 
 ```bash
-git clone https://gitlab.aimedic.co/xray/rsna-pneumonia/-/tree/streamlit_flask/streamlit-flask
+git clone https://github.com/miladlink/Streamlit_Flask
 cd src
 ```
 
